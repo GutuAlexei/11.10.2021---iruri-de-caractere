@@ -1,5 +1,0 @@
-numele=str(input('Ce nume ai?'))
-prenume=str(input('Ce pronume ai?'))
-meseria=str(input('Unde doresti sa lucrezi?'))
-print('Te numești' , numele , prenume)
-print('Dorești să devii', meseria)
